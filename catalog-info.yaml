@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: rupesh-patil-22/springboot-demo
     backstage.io/kubernetes-id: springboot-demo
-    backstage.io/kubernetes-label-selector: 'app=springboot-demo'
+    backstage.io/kubernetes-label-selector: 'app=springboot-demo,component=springboot-demo'
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
