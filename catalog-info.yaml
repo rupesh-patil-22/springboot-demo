@@ -5,6 +5,7 @@ metadata:
   description: "Springboot demo project"
   annotations:
     github.com/project-slug: rupesh-patil-22/springboot-demo
+    backstage.io/kubernetes-id: springboot-demo
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
