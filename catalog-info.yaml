@@ -8,7 +8,7 @@ metadata:
     backstage.io/kubernetes-id: springboot-demo
     backstage.io/kubernetes-label-selector: 'app=springboot-demo'
     backstage.io/techdocs-ref: dir:.
-    sonarqube.org/project-key: rupesh-patil-22/rupesh-patil-22_springboot-demo
+    sonarqube.org/project-key: rupesh-patil-22_springboot-demo
 spec:
   type: service
   lifecycle: experimental
